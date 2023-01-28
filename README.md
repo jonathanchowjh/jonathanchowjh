@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Jonathan. Let's connect!</h1>
+<h2 align="center">Hi, I'm Jonathan. 👋</h2>
+<div align="center">
+  A software developer with a passion for learning new technologies!
+</div>
 
 ### → Social Media Links
 <p>
@@ -100,7 +103,7 @@
   />
 </p>
 
-### 🛠️ Frameworks
+<!-- ### 🛠️ Frameworks
 <p>
   <img
     alt="ReactJS"
@@ -152,4 +155,4 @@
     src="https://img.shields.io/badge/CosmWasm-916527?style=for-the-badge&logo=WebAssembly&logoColor=white" 
     height="25px"
   />
-</p>
+</p> -->
