@@ -40,13 +40,13 @@
     />
   </a>
   <a
-    href="mailto:jonathanchowjh@gmail.com"
+    href="mailto:hartonot.2019@scis.smu.edu.sg"
     target="_blank"
     rel="noopener"
   >
     <img
-      alt="Gmail"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Mail"
+      src="https://img.shields.io/badge/mail-gray?style=for-the-badge&logo=gmail&logoColor=white"
       height="25px"
     />
   </a>
