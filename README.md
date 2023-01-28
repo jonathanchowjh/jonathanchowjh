@@ -2,7 +2,11 @@
 
 ### → Social Media Links
 <p>
-  <a href="https://github.com/jonathanchowjh" target="_blank" rel="noopener">
+  <a
+    href="https://github.com/jonathanchowjh"
+    target="_blank"
+    rel="noopener"
+  >
     <img
       alt="Github"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
