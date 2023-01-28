@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Jonathan Chow</h1>
 
-## → Social Media Links
+### → Social Media Links
 <p>
   <a
     href="https://github.com/jonathanchowjh"
@@ -46,7 +46,7 @@
 
 <hr />
 
-## 🛠️ Languages
+### 🛠️ Languages
 <p>
   <img
     alt="Javascript"
@@ -95,7 +95,7 @@
   />
 </p>
 
-## 🛠️ Frameworks
+### 🛠️ Frameworks
 <p>
   <img
     alt="ReactJS"
