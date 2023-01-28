@@ -5,7 +5,7 @@
   <a
     href="https://github.com/jonathanchowjh"
     target="_blank"
-    rel="noopener noreferrer"
+    rel="noopener"
   >
     <img
       alt="Github"
@@ -16,19 +16,19 @@
   <a
     href="https://www.linkedin.com/in/jonathanchowjh/"
     target="_blank"
-    rel="noopener noreferrer"
+    rel="noopener"
   >
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       height="25px"
-      rel="noopener noreferrer"
+      rel="noopener"
     />
   </a>
   <a
     href="https://jonathanchowjh.medium.com"
     target="_blank"
-    rel="noopener noreferrer"
+    rel="noopener"
   >
     <img
       alt="Medium"
@@ -39,7 +39,7 @@
   <a
     href="mailto:jonathanchowjh@gmail.com"
     target="_blank"
-    rel="noopener noreferrer"
+    rel="noopener"
   >
     <img
       alt="Gmail"
