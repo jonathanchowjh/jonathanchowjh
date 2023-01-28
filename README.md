@@ -1,12 +1,8 @@
-<h1 align="center">Hello, I'm Jonathan Chow</h1>
+<h1 align="center">Hi, I'm Jonathan. Let's connect!</h1>
 
 ### → Social Media Links
 <p>
-  <a
-    href="https://github.com/jonathanchowjh"
-    target="_blank"
-    rel="noopener"
-  >
+  <a href="https://github.com/jonathanchowjh" target="_blank" rel="noopener">
     <img
       alt="Github"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
