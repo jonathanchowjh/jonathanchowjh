@@ -3,17 +3,6 @@
 ### → Social Media Links
 <p>
   <a
-    href="https://github.com/jonathanchowjh"
-    target="_blank"
-    rel="noopener"
-  >
-    <img
-      alt="Github"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      height="25px"
-    />
-  </a>
-  <a
     href="https://www.linkedin.com/in/jonathanchowjh/"
     target="_blank"
     rel="noopener"
@@ -26,13 +15,24 @@
     />
   </a>
   <a
+    href="https://jonathanchowjh.com"
+    target="_blank"
+    rel="noopener"
+  >
+    <img
+      alt="Website"
+      src="https://img.shields.io/badge/Website-14354C?style=for-the-badge&logo=Kotlin&logoColor=white"
+      height="25px"
+    />
+  </a>
+  <a
     href="https://jonathanchowjh.medium.com"
     target="_blank"
     rel="noopener"
   >
     <img
       alt="Medium"
-      src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=medium&logoColor=white"
+      src="https://img.shields.io/badge/Blog-22873d?style=for-the-badge&logo=medium&logoColor=white"
       height="25px"
     />
   </a>
@@ -70,7 +70,7 @@
   />
   <img
     alt="Java"
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" 
+    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Kotlin&logoColor=white" 
     height="25px"
   />
   <img
@@ -95,7 +95,7 @@
   />
   <img
     alt="Solidity"
-    src="https://img.shields.io/badge/solidity-2ea44f?style=for-the-badge&logo=solidity&logoColor=white" 
+    src="https://img.shields.io/badge/solidity-916527?style=for-the-badge&logo=solidity&logoColor=white" 
     height="25px"
   />
 </p>
@@ -114,7 +114,7 @@
   />
   <img
     alt="ExpressJS"
-    src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" 
+    src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=Express&logoColor=white" 
     height="25px"
   />
   <img
@@ -124,7 +124,7 @@
   />
   <img
     alt="ASP.NET"
-    src="https://img.shields.io/badge/ASP.NET-b730d9?style=for-the-badge&logo=ASP&logoColor=white" 
+    src="https://img.shields.io/badge/ASP.NET-b730d9?style=for-the-badge&logo=.net&logoColor=white" 
     height="25px"
   />
   <img
@@ -144,12 +144,12 @@
   />
   <img
     alt="Hardhat"
-    src="https://img.shields.io/badge/hardhat-ffed4d?style=for-the-badge&logo=hardhat&logoColor=white" 
+    src="https://img.shields.io/badge/hardhat-ffed4d?style=for-the-badge&logo=Ethereum&logoColor=black" 
     height="25px"
   />
   <img
     alt="CosmWasm"
-    src="https://img.shields.io/badge/CosmWasm-916527?style=for-the-badge&logo=CosmWasm&logoColor=white" 
+    src="https://img.shields.io/badge/CosmWasm-916527?style=for-the-badge&logo=WebAssembly&logoColor=white" 
     height="25px"
   />
 </p>
